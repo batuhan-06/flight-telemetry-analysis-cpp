@@ -1,0 +1,21 @@
+===== FLIGHT TELEMETRY ANALYSIS REPORT =====
+
+Total Records       : 8
+Max Speed (m/s)     : 37.2
+Average Speed (m/s) : 20.4625
+Max Altitude (m)    : 198
+Average Altitude (m): 142
+Minimum Battery (%) : 15
+Max Temperature (C) : 60
+
+===== DETECTED ANOMALIES =====
+[HIGH SPEED] Time: 6s | Speed: 37.2 m/s
+[LOW BATTERY] Time: 7s | Battery: 18 %
+[HIGH TEMPERATURE] Time: 7s | Temperature: 55 C
+[WEAK GPS SIGNAL] Time: 7s | GPS Satellites: 5
+[ALTITUDE SPIKE] Time: 7s | Altitude change: 38 m
+[LOW BATTERY] Time: 8s | Battery: 15 %
+[HIGH TEMPERATURE] Time: 8s | Temperature: 60 C
+[WEAK GPS SIGNAL] Time: 8s | GPS Satellites: 4
+
+Total anomalies detected: 8

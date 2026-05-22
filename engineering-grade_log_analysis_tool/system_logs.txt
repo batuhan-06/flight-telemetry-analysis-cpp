@@ -1,0 +1,7 @@
+[WARNING] HIGH_SPEED at 6s --> Speed exceeded safe threshold
+[CRITICAL] LOW_BATTERY at 7s --> Battery level dropped below 20%
+[WARNING] HIGH_TEMPERATURE at 7s --> Temperature exceeded safe threshold
+[WARNING] WEAK_GPS_SIGNAL at 7s --> GPS signal dropped below safe level
+[CRITICAL] LOW_BATTERY at 8s --> Battery level dropped below 20%
+[WARNING] HIGH_TEMPERATURE at 8s --> Temperature exceeded safe threshold
+[WARNING] WEAK_GPS_SIGNAL at 8s --> GPS signal dropped below safe level
