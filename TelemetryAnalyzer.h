@@ -21,6 +21,8 @@ public:
 
 	// Returns number of records
 	size_t getRecordCount() const;
+
+	const std::vector<TelemetryRecord>& getRecords() const;
 };
 
 #endif

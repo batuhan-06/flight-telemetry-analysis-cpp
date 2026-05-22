@@ -276,3 +276,7 @@ void TelemetryAnalyzer::exportReport(const std::string& filename) const {
 	report.close();
 	std::cout << "Analysis report exported successfully." << std::endl;
 }
+
+const std::vector<TelemetryRecord>& TelemetryAnalyzer::getRecords() const {
+	return records;
+}
