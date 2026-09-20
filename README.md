@@ -206,6 +206,3 @@ Planned upgrades:
 
 ## Author
 Batuhan
-
-Computer Engineering Student  
-C++ Developer | Embedded Systems | Monitoring Systems | Software Engineering
